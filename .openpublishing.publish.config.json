@@ -23,7 +23,7 @@
   "branches_to_filter": [
     "live",
     "main",
-    "master-sxs"
+    "master"
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/IntuneEdu",
   "git_repository_branch_open_to_public_contributors": "live",
@@ -32,7 +32,8 @@
   "need_preview_pull_request": true,
   "contribution_branch_mappings": {
     "live-sxs": "live",
-    "main-sxs": "main"
+    "main-sxs": "main",
+    "master-sxs": "master"
   },
   "dependent_repositories": [
     {
